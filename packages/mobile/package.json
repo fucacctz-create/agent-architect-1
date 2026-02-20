@@ -22,7 +22,7 @@
     "react-native-screens": "~3.31.0",
     "@clerk/clerk-expo": "^1.2.0",
     "expo-secure-store": "~13.0.0",
-    "axios": "^1.6.0",
+    "axios": "^1.13.5",
     "socket.io-client": "^4.6.1"
   },
   "devDependencies": {
